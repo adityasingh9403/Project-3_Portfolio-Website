@@ -1,4 +1,4 @@
-# Codsoft_Task1
+# Portfolio Website
 Aditya Singh's Portfolio
 
 Welcome to my portfolio repository! This project showcases my skills and experience as a Java Full Stack Developer. Below, you'll find details on the various sections of my portfolio, the technologies used, and instructions on how to set up and view the project locally.
